@@ -6,7 +6,7 @@ Recently, [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-
 
 ## Usage
 
-Add a bookmark and put the content of [bookmarklet_ja.js](bookmarklet_ja.js) in the URL field.
+Add a bookmark to your browser, and put the content of [bookmarklet_ja.js](bookmarklet_ja.js) in the URL field.
 
 ## Note
 

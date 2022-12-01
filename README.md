@@ -6,7 +6,9 @@ Recently, [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-
 
 ## Usage
 
-Add a bookmark to your browser, and put the content of [bookmarklet_en.js](bookmarklet_en.js) in the URL field.
+1. Add a bookmark to your browser, and put the content of [bookmarklet_en.js](bookmarklet_en.js) in the URL field.
+
+1. Click the bookmark created above when you're annoyed by the ads on Twitter timeline. This will make you feel better!
 
 ## Note
 

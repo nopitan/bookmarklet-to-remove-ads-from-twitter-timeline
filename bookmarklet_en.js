@@ -11,4 +11,4 @@ javascript: ((adWord) => {
     setTimeout(removeAds, 1000);
   }
   setTimeout(removeAds);
-})("プロモーション");
+})("Promoted");

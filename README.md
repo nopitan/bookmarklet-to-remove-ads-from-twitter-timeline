@@ -6,12 +6,12 @@ Recently, [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-
 
 ## Usage
 
-Add a bookmark to your browser, and put the content of [bookmarklet_ja.js](bookmarklet_ja.js) in the URL field.
+Add a bookmark to your browser, and put the content of [bookmarklet_en.js](bookmarklet_en.js) in the URL field.
 
 ## Note
 
-This [bookmarklet_ja.js](bookmarklet_ja.js) works only in Japanese. If you are using a language other than Japanese, replace the `"promotion"` at the end of the scripts with your language.
+[bookmarklet_en.js](bookmarklet_en.js) works only in English. If you are using a language other than English, replace the `"Promoted"` at the end of the scripts with your language.
 
 ## License
 
-MIT
+[MIT](LICENSE)
